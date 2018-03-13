@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawler", "ConsoleApp1\WebCrawler.csproj", "{ED424796-6012-49F6-A88A-7D9799F65CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadExcercises", "Excercise\ThreadExcercises.csproj", "{5E5EBCD2-C793-4948-B21C-3A4C2EC57EEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED424796-6012-49F6-A88A-7D9799F65CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED424796-6012-49F6-A88A-7D9799F65CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED424796-6012-49F6-A88A-7D9799F65CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED424796-6012-49F6-A88A-7D9799F65CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5EBCD2-C793-4948-B21C-3A4C2EC57EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5EBCD2-C793-4948-B21C-3A4C2EC57EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5EBCD2-C793-4948-B21C-3A4C2EC57EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5EBCD2-C793-4948-B21C-3A4C2EC57EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9839C84-BD01-497F-A586-7F0A930B8748}
+	EndGlobalSection
+EndGlobal
